@@ -13,7 +13,7 @@ Welcome to **ML Mastery Hub**, a structured and hands-on **Machine Learning trai
 ✔️ **Hands-on Learning** – Not just theory, but real implementation  
 ✔️ **Structured Roadmap** – Covers fundamentals to advanced ML concepts  
 ✔️ **Industry-Relevant Projects** – Gain practical skills for real-world applications  
-✔️ **Community & Collaboration** – Open for contributions, discussions, and improvements  
+✔️ **Community & Collaboration** – Open for contributions, discussions, and improvements
 
 ## 🚀 **Getting Started**  
 1️⃣ **Clone the Repository**  
