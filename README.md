@@ -33,6 +33,6 @@ jupyter notebook
 ## 💡 **Who is This For?**  
 ✅ **Beginners** – Start from scratch and build your first ML model  
 ✅ **Intermediate Learners** – Enhance ML skills with hands-on projects  
-✅ **Aspiring Data Scientists** – Work on practical ML problems to strengthen your portfolio  
+✅ **Aspiring Data Scientists** – Work on practical ML problems to strengthen your portfolio
 
 📌 **Stay tuned for exciting updates, new challenges, and advanced ML topics!** 🚀  
