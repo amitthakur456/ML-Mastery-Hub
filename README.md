@@ -5,7 +5,7 @@ Welcome to **ML Mastery Hub**, a structured and hands-on **Machine Learning trai
 ## 📌 **What’s Inside?**  
 🔹 Beginner to Advanced ML concepts explained with **code and examples**  
 🔹 **Jupyter Notebooks** for interactive learning  
-🔹 Practical projects covering **Regression, Classification, NLP, Clustering, and more**  
+🔹 Practical projects covering **Regression, Classification, NLP, Clustering, and more**
 🔹 Resources on **Feature Engineering, Model Optimization, and Deep Learning**  
 🔹 Regular updates and **new challenges every week**  
 
