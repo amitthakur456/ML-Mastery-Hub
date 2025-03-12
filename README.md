@@ -1,4 +1,4 @@
-### 🚀 **ML Mastery Hub – Your Gateway to Machine Learning Excellence**  
+### 🚀 **ML Mastery Hub – Your Gateway to Machine Learning Excellence**
 
 Welcome to **ML Mastery Hub**, a structured and hands-on **Machine Learning training repository** designed for learners at all levels! Whether you’re a beginner or looking to refine your ML skills, this repository provides a **step-by-step learning path** with real-world datasets, coding exercises, and project-based learning.  
 
